@@ -10,5 +10,6 @@
 [Networking basics (2020) | What is a switch, router, gateway, subnet, gateway, firewall & DMZ](https://www.youtube.com/watch?v=_IOZ8_cPgu8&list=RDCMUC1RauiosDyz3K16X1wkaeiA&start_radio=1&rv=_IOZ8_cPgu8&t=31)<br>
 [20 basic linux commands for everyone (2021) | Hands-on demo on google cloud (gcp) linux vm](https://www.youtube.com/watch?v=_RchQ4OlmWM&list=RDCMUC1RauiosDyz3K16X1wkaeiA&index=8)<br>
 []()<br>
-
+```Channel Kong Ruksiam```<br>
+[สอน Python Network ตอนที่ 1 - TCP/IP SERVER](https://www.youtube.com/watch?v=4AiIyHGDQp8&list=RDCMUCB6eDEzpqpiaZnDMzoje57Q&index=3)<br>
 
